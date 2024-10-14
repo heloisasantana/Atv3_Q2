@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora de Autonomia</string>
+    <string name="calcular">Calcular</string>
+    <string name="consumo_medio">Consumo médio (km/l)</string>
+    <string name="quantidade_litros">Quantidade de litros no tanque</string>
+    <string name="resultado">Autonomia será exibida aqui</string>
+</resources>
